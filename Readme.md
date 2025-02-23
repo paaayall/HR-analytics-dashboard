@@ -42,7 +42,7 @@ The sales data used in this project comes from the following sources:
 ## Dashboard Screenshots
 Here are some screenshots from the HR Analytics Dashboard:
 
-![HR Analytics Dashboard]("ss.png")
+![HR Analytics Dashboard]('ss.png')
 Dashboard Overview
 
 ## How to Use
